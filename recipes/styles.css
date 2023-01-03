@@ -1,0 +1,26 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+.main {
+    color: black;
+    background-color: azure;
+    font-size: medium;
+    font-weight: bold;
+}
+h1 {
+    color: black;
+    font-family: serif;
+    font-size: medium;
+    font-weight: light;
+}
+h3 {
+    color: black;
+    font-family: serif;
+    font-size: medium;
+    font-weight: light;
+    background-color: azure;
+}
+body {
+    background-color: azure;
+}
